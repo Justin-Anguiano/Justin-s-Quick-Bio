@@ -7,6 +7,13 @@ body {
     background-color: rgb(165, 200, 225);
 }
 
+header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {font-size: extra large;
+}
+
 header,
 footer {
     color: black;
